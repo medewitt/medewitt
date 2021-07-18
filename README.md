@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Michael DeWitt and I am a senior data scientist and applied statistician working in health care.
+I primarily work in R and Stan, though I am learning Julia.
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medewitt&hide=javascript,html,css&langs_count=8&layout=compact)
+
 <!--
 **medewitt/medewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
