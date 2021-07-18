@@ -4,11 +4,6 @@ My name is Michael DeWitt and I am a senior data scientist and applied statistic
 I primarily work in R and Stan, though I am learning Julia.
 Check out my website for more details at <https://michaeldewittjr.com>
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medewitt&hide=javascript,html,css&count_private=true&langs_count=8&layout=compact)
- 
- Language card generated using [this great repository](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-
 <!--
 **medewitt/medewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medewitt&hide=javascript,html,css&count_private=true&langs_count=8&layout=compact)
+ 
+ Language card generated using [this great repository](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 -->
