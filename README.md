@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michael DeWitt and I am a senior data scientist and applied statistician working in health care.
+My name is Michael DeWitt and I am a senior data scientist and applied statistician working in infectious disease research.
 I primarily work in R and Stan, though I am learning Julia.
 Check out my website for more details at <https://michaeldewittjr.com>
 
